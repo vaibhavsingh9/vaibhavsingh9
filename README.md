@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavsingh9
-- 👀 I’m interested in builing stuff
-- 🌱 I’m currently learning python
+- 👀 I’m interested in building stuff
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on research projects
 - 📫 How to reach me vaibhav0001singh@gmail.com
 
